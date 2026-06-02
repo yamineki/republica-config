@@ -1,1 +1,14 @@
-
+```json
+{
+  "modpackUrl":  "https://github.com/yaminekiw/republica-pack/releases/download/v1.0.0/republica-pack-v1.0.0.zip",
+  "manifestUrl": "https://github.com/yaminekiw/republica-pack/releases/download/v1.0.0/manifest.json",
+  "serverIp":    "ТВОЙ_IP_СЕРВЕРА",
+  "serverPort":  25565,
+  "serverName":  "Republica",
+  "discordUrl":  "https://discord.gg/cw78shPP9M",
+  "javaDownload": {
+    "win32": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_windows_hotspot_21.0.5_11.zip",
+    "linux": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jre_x64_linux_hotspot_21.0.5_11.tar.gz"
+  }
+}
+```
