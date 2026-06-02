@@ -1,7 +1,7 @@
 ```json
 {
-  "modpackUrl":  "https://github.com/yaminekiw/republica-pack/releases/download/v1.0.0/republica-pack-v1.0.0.zip",
-  "manifestUrl": "https://github.com/yaminekiw/republica-pack/releases/download/v1.0.0/manifest.json",
+  "modpackUrl":  "https://github.com/yamineki/republica-pack/releases/download/v1.0.0/republica-pack-v1.0.0.zip",
+  "manifestUrl": "https://github.com/yamineki/republica-pack/releases/download/v1.0.0/manifest.json",
   "serverIp":    "ТВОЙ_IP_СЕРВЕРА",
   "serverPort":  25565,
   "serverName":  "Republica",
